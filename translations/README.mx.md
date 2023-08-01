@@ -59,7 +59,7 @@ git checkout -b <añade tu nombre>
 
 Por ejemplo:
 ```
-git checkout -b add-juan-perez
+git checkout -c add-juan-perez
 ```
 (El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
